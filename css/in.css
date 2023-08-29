@@ -1,0 +1,56 @@
+
+body {
+  font-family: arial;
+}
+.background {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(pictures/try.jpg);
+  
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  box-sizing: border-box;
+  border: 2px solid black;
+  width: 300px;
+  margin: auto;
+  
+  margin-top: 300px;
+  
+  
+}
+.input {
+  margin-bottom: 12px;
+  
+}
+.btn {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: medium;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.button {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 25px;
+  color: rgb(18, 206, 240);
+  transition: .2s;
+  border-radius: 20px;
+}
+.button:hover {
+  color: white;
+  background-color: rgb(18, 206, 240);
+  cursor:pointer;
+  
+}
+.remember {
+  font-size:20px; 
+  color: rgb(18, 206, 240); 
+}
+

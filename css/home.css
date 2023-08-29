@@ -1,0 +1,25 @@
+.heading {
+  font-size: 60px;
+  text-align: center;
+}
+
+.rohit {
+  font-size: 40px;
+  border-color: rgb(14, 235, 14);
+  margin-left: 10px;
+  margin-bottom: 50px;
+  border-radius: 30px;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  transition: 0.17s;
+}
+.rohit:hover {
+  box-shadow: 3px 3px 25px;
+  color: black;
+  background-color:rgb(14, 235, 14);
+  border-color: black;
+  border-width: 2px;
+  padding-left: 150px;
+}
